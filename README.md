@@ -132,7 +132,7 @@ Ensure your FastAPI backend is running at `http://localhost:8000` or update the 
 
 ## 💡 AI Prompt Used
 
-> "You are a task assistant. Classify the task as High / Medium / Low priority. Only respond with the priority, no explanation."
+> "You are a task assistant. Classify the task as High / Medium / Low priority. Only respond with the priority."
 
 ---
 
