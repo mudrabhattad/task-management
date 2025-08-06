@@ -74,7 +74,7 @@ smart-task-manager/
 
 ```bash
 git clone https://github.com/yourusername/task-management.git
-cd taskmanagement
+cd task-management
 ```
 
 ### 2. Setup Backend (FastAPI)
