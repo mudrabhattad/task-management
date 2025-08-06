@@ -73,7 +73,7 @@ smart-task-manager/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/taskmanagement.git
+git clone https://github.com/yourusername/task-management.git
 cd taskmanagement
 ```
 
